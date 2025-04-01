@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abuladze\\Desktop\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\Assignments\\Project\\mikheil_abuladze_project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E55DF2-E444-4545-96C3-30E1C5D6933A}|Project.csproj|c:\\users\\abuladze\\desktop\\ol-dotnet-telavi\\ol-dotnet-telavi\\ol-dotnet-telavi\\assignments\\project\\mikheil_abuladze_project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E55DF2-E444-4545-96C3-30E1C5D6933A}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abuladze\\Desktop\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\Assignments\\Project\\mikheil_abuladze_project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abuladze\\Desktop\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\OL-dotnet-Telavi\\Assignments\\Project\\mikheil_abuladze_project\\Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:49:37.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
